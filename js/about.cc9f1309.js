@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktravel_agency"]=self["webpackChunktravel_agency"]||[]).push([[594],{603:function(n,a,e){e.r(a),e.d(a,{default:function(){return i}});var t=e(6768);const u={class:"about"};function r(n,a){return(0,t.uX)(),(0,t.CE)("div",u,a[0]||(a[0]=[(0,t.Lk)("h1",null,"This is an about page",-1)]))}var c=e(1241);const s={},l=(0,c.A)(s,[["render",r]]);var i=l}}]);
+//# sourceMappingURL=about.cc9f1309.js.map
